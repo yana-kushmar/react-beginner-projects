@@ -7,8 +7,6 @@ import './index.scss';
 
 function App() {
 
-
-
     // const [rates, setRates] = React.useState({})
     const ratesRef = React.useRef({})
 
